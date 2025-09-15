@@ -36,5 +36,5 @@ Wincdu is a packaging of Ncdu, Mintty and Cygwin to provide a standalone disk us
 https://itefix.net/wincdu
 
 ## wrbldnsd
-Wrbldnsd is a Windows anti-spam solution by serving DNSBL(link is external) zones locally. It is a packaging of Rbldnsd, Rsync and Cygwin. You can use Wrbldnsd to locally mirror DNSBL zone files, thus eliminating latency problems in larger environments and decreasing time used for email filtering significantly.
+Wrbldnsd is a Windows anti-spam solution by serving DNSBL zones locally. It is a packaging of Rbldnsd, Rsync and Cygwin. You can use Wrbldnsd to locally mirror DNSBL zone files, thus eliminating latency problems in larger environments and decreasing time used for email filtering significantly.
 https://itefix.net/wrbldnsd
