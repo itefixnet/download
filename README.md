@@ -1,6 +1,6 @@
 # Free Software Downloads from itefix.net
 
-- All binaries are signed by our code signing certificate and checked by VirusTotal
+- All binaries are signed by our code signing certificate as of 2025-09-05 and checked by VirusTotal
 - Visit https://itefix.net for more information
 
 ## copssh client
