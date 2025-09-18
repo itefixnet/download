@@ -3,6 +3,10 @@
 - All binaries are signed by our code signing certificate as of 2025-09-05 and checked by VirusTotal
 - Visit https://itefix.net for more information
 
+## borg4win
+borg4win is a BorgBackup implementation for Windows systems. It is a packaging of BorgBackup, Python, OpenSSH, Cygwin and other related tools to provide a complete and ready-to-use solution for secure, deduplicated backup.
+https://itefix.net/borg4win
+
 ## copssh client
 A barebone distribution of OpenSSH client for Windows. That's all you need to initiate ssh/sftp requests from your computer.
 https://itefix.net/copssh/client
