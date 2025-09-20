@@ -2,6 +2,7 @@
 VERSION="goaccess-version"
 bs_workspace="folder"
 
+cd $bs_workspace
 wget https://tar.goaccess.io/goaccess-${VERSION}.tar.gz
 tar xzvf goaccess-${VERSION}.tar.gz
 

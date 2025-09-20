@@ -3,6 +3,7 @@
 VERSION="rsync-version"
 bs_workspace="folder"
 
+cd $bs_workspace
 wget http://rsync.samba.org/ftp/rsync/rsync-${VERSION}.tar.gz
 wget http://rsync.samba.org/ftp/rsync/rsync-patches-${VERSION}.tar.gz
 
