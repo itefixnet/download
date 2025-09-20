@@ -1,0 +1,15 @@
+--- session.c.bak	2022-10-03 16:51:42.000000000 +0200
++++ session.c	2022-10-08 22:51:55.868941100 +0200
+@@ -1333,10 +1333,12 @@
+ 		if (stat(component, &st) != 0)
+ 			fatal_f("stat(\"%s\"): %s",
+ 			    component, strerror(errno));
++/*
+ 		if (st.st_uid != 0 || (st.st_mode & 022) != 0)
+ 			fatal("bad ownership or modes for chroot "
+ 			    "directory %s\"%s\"",
+ 			    cp == NULL ? "" : "component ", component);
++*/
+ 		if (!S_ISDIR(st.st_mode))
+ 			fatal("chroot path %s\"%s\" is not a directory",
+ 			    cp == NULL ? "" : "component ", component);
