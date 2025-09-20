@@ -39,6 +39,9 @@ https://itefix.net/logwot8
 Wincdu is a packaging of Ncdu, Mintty and Cygwin to provide a standalone disk usage analyzer for Windows systems.
 https://itefix.net/wincdu
 
+## winrpe
+Winrpe is a Nagios NRPE implementation for Windows systems. It is a packaging of Nagios NRPE addon, Xinet, Cygwin and a collection of Windows specific NRPE plugins for monitoring cpu, disk, memory, eventlog, services and performance counters. It can easily be expanded by other plugins.
+
 ## wrbldnsd
 Wrbldnsd is a Windows anti-spam solution by serving DNSBL zones locally. It is a packaging of Rbldnsd, Rsync and Cygwin. You can use Wrbldnsd to locally mirror DNSBL zone files, thus eliminating latency problems in larger environments and decreasing time used for email filtering significantly.
 https://itefix.net/wrbldnsd
