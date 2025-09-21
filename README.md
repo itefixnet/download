@@ -19,17 +19,9 @@ https://itefix.net/cowaxess
 A barebone distribution of Rsync client for Windows. That's all you need to initiate rsync requests from your computer.
 https://itefix.net/cwrsync/client
 
-## icurl
-icurl is a packaging of Curl and Cygwin to offer a standalone transfer tool for Windows systems. it is just a yet another contribution to a large set of curl implementations.
-https://itefix.net/icurl
-
 ## itmux
 itmux is a packaging of Tmux, Mintty, Openssh client and Cygwin to offer a standalone ssh-enabled terminal multiplexer for Windows systems.
 https://itefix.net/itmux
-
-## iwget2
-iwget2 is a packaging of wget2 and Cygwin to offer a standalone transfer tool for Windows systems.
-https://itefix.net/iwget2
 
 ## logwot8
 Logwot8 is a Logrotate implementation for Windows systems. It is a packaging of Logrotate, Cygwin and a collection of related tools to make it as a standalone log rotation solution for Windows systems.
